@@ -6,7 +6,7 @@
       "type": "income",
       "category": "Venda",
       "price": 14000,
-      "createdAt": "2023-03-29T17:38:26.212Z" 
+      "createdAt": "2023-03-29T17:38:26.212Z"
     },
     {
       "id": 2,
@@ -14,7 +14,31 @@
       "type": "outcome",
       "category": "Alimentação",
       "price": 50,
-      "createdAt": "2023-03-29T17:30:26.212Z" 
+      "createdAt": "2023-03-29T17:30:26.212Z"
+    },
+    {
+      "id": 3,
+      "description": "Pizza",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 500,
+      "createdAt": "2023-03-29T17:30:26.212Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "price": 10000,
+      "category": "Venda",
+      "type": "income",
+      "createdAt": "2023-03-30T19:20:47.520Z",
+      "id": 4
+    },
+    {
+      "description": "Iogurte de morango",
+      "price": 9,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-03-30T19:40:02.288Z",
+      "id": 5
     }
   ]
 }
