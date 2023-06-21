@@ -2,7 +2,7 @@
 
 ## A fully functional example project written in TypeScript and React showing how to create a Dashboard of Transaction
 
-This project is an example that was built along with a React course of Rocketseat, showing how to create a Pomodoro Timer in React + TypeScript. 
+This project is an example that was built along with a React course of Rocketseat, showing how to create a Dashboard of Transactions in React + TypeScript. 
 Every part of this project is sample code which show how to do the following:
 
 * Create a custom dashboard with React + TypeScript
